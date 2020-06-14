@@ -1,3 +1,4 @@
 # lesson-design
-课程设计-music
-1111111
+课程设计：
+音乐网站：1-music
+计算器：2-number
